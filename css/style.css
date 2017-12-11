@@ -1,0 +1,85 @@
+body {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	font-family: 'Open Sans', sans-serif;
+}
+.block {
+    display: block;
+}
+nav {
+	text-align: center;
+}
+h1 {
+	font-size: 54px;
+	font-style: bold;
+	text-align: center;
+}
+h2 {
+	font-size: 36px;
+	font-style: bold;
+	text-align: left;
+	padding-right: 5px;
+}
+h3 {
+	display: inline;
+	font-size: 24px;
+}
+.middle {
+	width: 50%;
+	margin: 0 auto;
+	align-content: center;
+}
+.middle1 {
+	width: 70%;
+	margin: 0 auto;
+	text-align: left;
+}
+img {
+  	padding-left: 0; 
+	display: inline-block;
+	float: right;
+	border: 15px solid rgba(54, 26, 18, .75);
+	border-radius: 50px;
+ 	width: 307.6253px;
+ 	height: 278.6px;
+ 	margin: 15px 10px 0 30px;
+}
+.photo {
+	padding-left: 0;
+    display: block;
+    float: none;
+    border: none;
+    border-radius: 0;
+    margin: 0;
+}
+p {
+	font-size: 24px;
+	font-style: bold;
+	text-align: left;
+	padding-right: 5px;
+}
+footer {
+	margin: 50px 0 0 0;
+	text-align: center;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.inline {
+	display: inline;
+	text-align: center;
+}
+h4 {
+	display: inline;
+	font-size: 24px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
